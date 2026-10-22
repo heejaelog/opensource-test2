@@ -1,7 +1,5 @@
 hello!
 heejae
-
 daf
 next week 0918
-home work: git commands practice
-s
+수정발생함
